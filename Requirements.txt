@@ -1,0 +1,7 @@
+The requirements for this system is :
+1. openCV
+2. playsound
+3.tkinter
+4.PyQt5
+5.python 3.6.8
+6.Camera Support
